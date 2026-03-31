@@ -8,6 +8,7 @@ Xserver上でNextCloudをインストール・アップデートした際に.hta
 # ファイル構成
 - index.html
 - nextcloud_rewrite.php（本体）
+
 本体ファイルに直アクセスされると書き換えられるリスクがあるため、index.htmlで?token=trueを渡し直アクセスを防ぎます
 
 basic認証などを用いれば本体ファイルのみでも十分かも
