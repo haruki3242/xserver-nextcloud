@@ -5,6 +5,6 @@ Xserver上でNextCloudをインストール・アップデートした際に.hta
 - `ModPagespeed Off` をコメントアウト
 - 「#### DO NOT CHANGE ANYTHING ABOVE THIS LINE ####」の直前で改行を入れる
 
-#ファイル構成
+# ファイル構成
 - index.html
 - nextcloud_rewrite.php（本体）
