@@ -1,0 +1,2 @@
+# xserver-nextcloud
+Xserver上でNextCloudをインストール・アップデートした際に.htaccessを原因として503エラーが発生する事象を解消するスクリプト
